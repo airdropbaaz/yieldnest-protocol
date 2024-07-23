@@ -1,7 +1,6 @@
 name: Forge Tests
 
 on: push
-
 jobs:
   Forge-Tests:
     runs-on: ubuntu-latest
